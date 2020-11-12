@@ -1,17 +1,19 @@
 // DEPENDENCIES
 
-var express = require("express");
+const express = require("express");
 
 // EXPRESS CONFIGURATION
 
-var app = express();
-var PORT = process.env.PORT || 8080;
+const app = express();
+const PORT = process.env.PORT || 8080;
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static('public'));
 
 // ROUTER
 require("./routes/htmlRoute")(app);
+require("./routes/apiRoutes.js")(app);
 
 // LISTENER
 
