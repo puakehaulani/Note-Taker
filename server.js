@@ -12,8 +12,8 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // ROUTER
-require("./routes/htmlRoute")(app);
-require("./routes/apiRoutes")(app);
+app.use("/api/notes", require("./routes/apiRoutes"));
+app.use("/", require("./routes/htmlRoute"));
 
 // LISTENER
 
