@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Explore the docs](http://github.com/puakehaulani/Note-Taker) | [Heroku Deployment]()
+[Explore the docs](http://github.com/puakehaulani/Note-Taker) | [Heroku Deployment](https://enigmatic-ridge-33725.herokuapp.com/)
 
 ---
 
