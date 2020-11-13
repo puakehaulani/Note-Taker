@@ -1,6 +1,6 @@
 # Note Taker
 
-[![Demo](https://img.youtube.com/vi/sR2HT1g18xM/0.jpg)](http://www.youtube.com/watch?v=sR2HT1g18xM)
+[![Demo](https://img.youtube.com/vi/m-Y6Dbic_IU/0.jpg)](http://www.youtube.com/watch?v=m-Y6Dbic_IU)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
