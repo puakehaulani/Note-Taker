@@ -11,10 +11,9 @@
 ## Table of Contents
 
 - [About the Project](#About-the-Project)
-- [Usage](#Usage)
 - [Getting Started](#Getting-Started)
   - [Installation](#Installation)
-  - [Launching](#Launching)
+- [Usage](#Usage)
 - [Testing](#Testing)
 - [Contributing](#Contributing)
 - [License](#License)
@@ -24,21 +23,17 @@
 
 This is an app for writing, viewing, and deleting notes. It uses an express backend to save and retrieve the notes from a JSON file that acts as the database. The server was created and run to localhost with node.js.
 
-## Usage
-
-Use this app to stay organized and get ideas and notes out of your brain. These notes can be revisited later, and deleted when they are no longer needed. The notes are saved to a JSON file, so they can be recalled more reliably than using localstorage.
-
 ## Getting Started
 
 To get started, follow these steps:
 
-### 1. Installation
+### Installation
 
 Run the following command in your terminal
 
     npm i
 
-### 2. Launching
+## Usage
 
 Start the server in the terminal by running the following command
 
